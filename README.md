@@ -6,9 +6,8 @@
 - Laravel(Mostly Use for Simple numb project), Django(will use it after college done), 
 - Node.js, Flutter(will use it after college done)
 - Unity (I like making gameplay with unique story and gameplay) and 
-- vite.js + Three.js (Well kinda)
-- To be honest I kinda hate it but for sake speed development well don't @me it just my opinion
-- 📫 How to reach me ... well i dont know.. maybe later
+- vite.js + Three.js (Well kinda) use for as Design Portfolio
+- 📫 How to reach me ... well i dont know.. maybe later in meantime
 
 <!---
 notIbrahim/notIbrahim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
