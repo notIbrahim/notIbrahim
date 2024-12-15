@@ -1,8 +1,8 @@
 <h3 align="center">Just An Average Software Engineer and Enthusiast Cybersecurity Analyst</h3>
 
-- 🌱 I’m currently learning **Kotlin, C, C++, C#, Godot Script and Framework JS(Svelte/React/RxJs/Angular)**
+- 🌱 I’m currently learning and try to confidence to use tools **Kotlin, C, C++, C#, Godot Script and Framework JS(Svelte/React/RxJs/Angular)**
 
-- 🛄 Skill that I Confidence **Laravel (PHP), HTML/CSS/JS(Partial) Vanilla, Golang, Typescript(Partial), Next.Js(Partial)**
+- 🛄 Skill that I Confidence **Laravel (PHP), HTML/CSS/JS(Partial) Vanilla, Golang, Typescript(Partial), Next.Js(Partial), ELK Stack**
 
 - 🎨 Skill that not related but impact for making product **Blender (3D Modelling/Animation)**
 
