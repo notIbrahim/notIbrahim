@@ -1,15 +1,16 @@
-- 👋 Hi, I’m @notIbrahim that was my alias for you don't need to know what real name is. So anyway...
-- 👀 I’m interested in Computer Science but really interested how to make thing with my own hand
-- 🌱 I’m currently learning C, C++, C#, Python, PHP, Swift, Javascript and Java
-- 🛠 What tools i'm using for project (Known as Framework):
- 
-- Laravel(Mostly Use for Simple numb project), Django(will use it after college done), 
-- Node.js, Flutter(will use it after college done)
-- Unity (I like making gameplay with unique story and gameplay) and 
-- vite.js + Three.js (Well kinda) use for as Design Portfolio
-- 📫 How to reach me ... well i dont know.. maybe later in meantime
+<h3 align="center">Just An Average Software Engineer and Enthusiast Cybersecurity Analyst</h3>
 
-<!---
-notIbrahim/notIbrahim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently learning **Laravel (PHP), Go, Javascript, Kotlin, C, C++ and Godot Script**
+
+- 👨‍💻 All of my projects are available at [https://github.com/notIbrahim](https://github.com/notIbrahim)
+
+- 💬 Ask me about **what i know about it**
+
+- 📫 How to reach me **muhammadzihsan1@outlook.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
