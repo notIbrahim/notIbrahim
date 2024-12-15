@@ -1,10 +1,12 @@
 <h3 align="center">Just An Average Software Engineer and Enthusiast Cybersecurity Analyst</h3>
 
-- 🌱 I’m currently learning **Laravel (PHP), Go, Javascript, Kotlin, C, C++ and Godot Script**
+- 🌱 I’m currently learning **Kotlin, C, C++, C#, Godot Script and Framework JS(Svelte/React/RxJs/Angular)**
+
+- 🛄 Skill that I Confidence **Laravel (PHP), HTML/CSS/JS(Partial) Vanilla, Golang, Typescript(Partial), Next.Js(Partial)**
+
+- 🎨 Skill that not related but impact for making product **Blender (3D Modelling/Animation)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/notIbrahim](https://github.com/notIbrahim)
-
-- 💬 Ask me about **what i know about it**
 
 - 📫 How to reach me **muhammadzihsan1@outlook.com**
 
